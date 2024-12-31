@@ -1,6 +1,6 @@
 # Jason Bigs
 
-<img src="https://jason.412239.xyz/IMG1096.jpg" alt="avatar" width="100" height="100">
+<img src="https://jason.412239.xyz/image.png" alt="avatar" width="100" height="100">
 
 
 ## About Me
